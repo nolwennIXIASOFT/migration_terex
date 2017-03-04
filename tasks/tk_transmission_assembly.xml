@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "../../dtd/technicalContent/dtd/task.dtd">
+<task id="tk_transmission_assembly" xml:lang="en-us">
+<title>Assembly</title>
+<shortdesc/>
+<prolog>
+			<author></author>
+			<metadata>
+			<keywords>
+				<keyword>Transmission Assembly</keyword>
+				<indexterm>Transmission<indexterm>Assembling</indexterm></indexterm>
+			</keywords>
+			<prodinfo>
+			<prodname>Mining Truck</prodname>
+			<vrmlist>
+			<vrm version="T100"/>
+			</vrmlist>
+			<brand>Terex</brand>
+			</prodinfo>
+		</metadata>
+	</prolog>
+<taskbody>
+<context><p>Numbers in parentheses refer to <xref
+					href="../concepts/c_Transmission_Oil_Filter.xml#transmissionoilfilter/fig_transmission"
+					>Fig. 1</xref>.</p></context>
+<steps>
+  <step><cmd>Install brackets (18) on transmission (1) and loosely
+secure with bolts (15 and 16) and lockwashers (17). Tap
+brackets (18) with a copper hammer to ensure that
+shoulders butt then securely tighten bolts (15 and 16).</cmd></step>
+  <step><cmd>If removed fit ring (34) to trunnion (2) with the lip up
+and pointing to the front. If removed, fit shock mounts
+(5) to trunnion (2). Install trunnion (2) assembly to
+transmission (1).</cmd></step>
+  <step><cmd>Coat splines of input shaft with EP, NLGI
+molybdenum grease and fit input flange (33), retainer
+plate (32) and flange nut (31) on transmission (1).
+Tighten flange nut (31) to a torque of 960 Nm (710 lbf ft).</cmd></step>
+  <step><cmd>Ensure transmission output shaft is in the most
+outward position and the bearing between the shaft
+shoulder and the flange is tight against the shaft
+shoulder.</cmd></step>
+</steps>
+</taskbody>
+</task>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="lockupclutch" xml:lang="en-us">
+<title>Lockup Clutch</title>
+<shortdesc/>
+<prolog>
+	<author/>
+<metadata>
+	<keywords>
+		<keyword>Lockup</keyword>
+		<keyword>Clutch</keyword>
+	</keywords>
+	<prodinfo>
+		<prodname>Mining Truck</prodname>
+		<vrmlist>
+			<vrm version="T100"/>
+		</vrmlist>
+		<brand>Terex</brand>
+	</prodinfo>
+</metadata>
+</prolog>
+<conbody>
+<p>The lockup clutch is located inside the torque
+converter and consists of three elements - piston,
+clutch plate, and backplate. The piston and backplate
+are driven by the engine and the clutch plate, located
+between the piston and backplate, is splined to the
+converter turbine.
+</p>
+<p>The lockup clutch is hydraulically engaged and
+released in response to electrical signals from the
+ECU. It engages when the vehicle reaches a
+predetermined speed. Engagement of the lockup
+clutch provides a direct drive from the engine to the
+transmission gearing. This eliminates converter
+slippage to provide maximum fuel economy. The
+lockup clutch releases at lower speeds (and
+momentarily during shifts). When the lockup clutch is
+released, drive from the engine is transmitted
+hydraulically through the converter to the transmission
+gearing. The lockup clutch also releases when the
+ECU detects certain undesirable conditions.</p>
+</conbody>
+</concept>

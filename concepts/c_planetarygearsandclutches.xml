@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="planetarygearsandclutches" xml:lang="en-us">
+  <title>Planetary Gears and Clutches</title>
+  <shortdesc></shortdesc>
+  <prolog>
+           <author/>
+       
+       <metadata>
+          <keywords>
+                  <keyword>Gears</keyword>
+                <keyword>Clutches</keyword>
+                   <indexterm>Gears</indexterm>
+              </keywords>
+              <prodinfo>
+                  <prodname>Mining Truck</prodname>
+                  <vrmlist>
+                      <vrm version="T100"/>
+                  </vrmlist>
+                  <brand>Terex</brand>
+              </prodinfo>
+          </metadata>
+  </prolog>		
+  <conbody>
+    <p>The torque converter consists of three elements -
+    pump, turbine, and stator. The pump is the input
+    element and is driven directly by the engine. The
+    turbine is the output element and is hydraulically
+    driven by the pump. The stator is the reaction (torque
+    multiplying) element.</p>
+    <p>A series of planetary gears and shafts provide the
+    gear ratios and directions of travel for the vehicle.
+    Power flow through the planetaries is controlled by
+    multiple clutch packs. The clutches are applied and
+    released hydraulically in response to electrical signals
+    from the ECU.</p>
+  </conbody>
+</concept>

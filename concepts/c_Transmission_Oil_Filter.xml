@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="transmissionoilfilter" xml:lang="en-us">
+<title>Transmission Oil Filter</title>
+<shortdesc>The transmission oil filter is mounted at the left hand side of the
+    transmission.</shortdesc>
+<prolog>
+<author></author>
+<metadata>
+<keywords>
+<keyword>Transmission oil filter</keyword>
+<indexterm>Transmission<indexterm>Oil filter</indexterm></indexterm>
+</keywords>
+<prodinfo>
+<prodname>Mining Truck</prodname>
+<vrmlist>
+<vrm version="T100"/>
+</vrmlist>
+<brand>Terex</brand>
+</prodinfo>
+</metadata>
+</prolog>
+<conbody>
+<p>It is installed in the transmission oil lines to remove dirt and other contaminants from the
+      transmission oil to minimise wear and provide maximum service life for the transmission. </p>
+    <fig id="fig_transmission">
+      <title>Exploded view of transmission.</title>
+      <image href="../image/transmission_terex.png" width="600" id="image_izc_pfb_dz">
+        <alt>Exploded view of Transmission</alt>
+      </image>
+    </fig></conbody>
+</concept>

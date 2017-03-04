@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "../../dtd/technicalContent/dtd/task.dtd">
+<task id="removal" xml:lang="en-us">
+<title>Removal</title>
+<shortdesc/>
+<prolog>
+<author></author>
+<metadata>
+<keywords>
+<keyword>Transmission</keyword>
+<keyword>CEC</keyword>
+<indexterm>Removal<indexterm>Transmission</indexterm></indexterm></keywords>
+<prodinfo>
+<prodname>Mining Truck</prodname>
+<vrmlist><vrm version="T100"/></vrmlist>
+<brand>Terex</brand>
+</prodinfo>
+</metadata>
+</prolog>
+<taskbody>
+<context><p>Numbers in parentheses refer to <xref
+          href="../concepts/c_Transmission_Oil_Filter.xml#transmissionoilfilter/fig_transmission"/>. </p>
+      <p>
+        <note>Tag all lines, pipes, electrical connections and mechanical linkages disconnected
+          during removal to aid in installation.</note>
+      </p></context>
+<steps>
+  <step><cmd>Position the vehicle in a level work area, raise the body and secure in place with the body safety pins.</cmd></step>
+  <step><cmd>Apply the parking brake and switch off the engine. Turn steering wheel in both directions several times to relieve pressure in the steering system.</cmd></step>
+  <step>
+        <cmd>Operate the treadle valve continuously to discharge the brake accumulators. Block all
+          road wheels.</cmd>
+        <info>It is important that the electrical connections are removed in the order listed in
+          step 4 to prevent damage to the electrical components.</info>
+      </step>
+  <step><cmd>Disconnect battery equalizer ground connection from the batteries. Disconnect battery cables from terminal posts (ground cable first). Disconnect battery equalizer positive connection. Disconnect electrical connections at the ECU.</cmd></step>
+  <step><cmd>Using suitable lifting equipment, support transmission guard and remove mounting hardware securing the guard to the frame. Remove transmission guard.</cmd></step>
+  <step>
+        <cmd>Disconnect driveline from input flange (33) at the front of transmission (1).</cmd>
+      </step>
+  <step>
+        <cmd>Disconnect driveline from output flange (37) at the rear of transmission (1).</cmd>
+      </step>
+  </steps>
+</taskbody>
+</task>

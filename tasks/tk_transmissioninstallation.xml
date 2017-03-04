@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "../../dtd/technicalContent/dtd/task.dtd">
+<task id="installation" xml:lang="en-us">
+<title>Installation</title>
+<shortdesc></shortdesc>
+  <prolog>
+    <author></author>
+    <metadata>
+      <keywords>
+        <keyword>Installation</keyword>
+        <keyword>Hydraulic lines</keyword>
+        <indexterm>Installing<indexterm>Transmission</indexterm></indexterm>
+      </keywords>
+    </metadata>
+  </prolog>
+<taskbody>
+<context><p>Numbers in parentheses refer to <xref
+          href="../concepts/c_Transmission_Oil_Filter.xml#transmissionoilfilter/fig_transmission"
+          >Fig. 1</xref>. </p>
+      <p>
+        <note>Tighten all fasteners without special torques specified to standard torques.</note>
+      </p>
+<p>
+<note>Tighten all hydraulic lines fitted with ORFS connections. Renew all 'O' rings where
+          used.</note>
+</p></context>
+<steps>
+	<step><cmd>Position transmission (1) assembly under the
+vehicle and attach a suitable lifting device to the eye
+bolts on top of transmission (1).
+	</cmd></step>	
+<step><cmd>Carefully lift transmission (1) assembly into its
+mounting position and secure trunnion (2) to the frame
+with bolts (3), spacers (4) and locknuts (6). Tighten
+bolts (3) to a torque of 270 Nm (200 lbf ft).
+  </cmd></step>
+  <step><cmd>Install washers (14) and bushes (13) on brackets (18).</cmd></step>
+  <step><cmd>Assemble clamps (9) over bushings (13) and
+secure in place with bolts (7) and lockwashers (8).
+Tighten bolts (7) to a torque of 380 Nm (280 lbf ft).
+  </cmd></step>
+  <step><cmd>Install plates (12) (recess outwards) on brackets
+(18) and secure with bolts (10) and lockwashers (11).
+  </cmd></step>
+  <step><cmd>Remove lifting device and lifting eye bolts from top
+of transmission (1).
+   </cmd></step>
+  <step><cmd>Install filler hose (23) to filler tube (21) and adaptor
+(24) and secure with clamps (22).
+  </cmd></step>
+  <step><cmd>Secure accumulator valve mounting bracket on
+transmission (1) assembly with mounting hardware
+removed during removal.
+  </cmd></step>
+  <step><cmd>Secure mounting brackets for body hoist lines to the
+top of transmission (1) with mounting hardware
+removed during removal.
+  </cmd></step>
+  <step><cmd>Connect all electrical connections and cables to
+transmission (1) as tagged at removal.
+  </cmd></step>
+   <step><cmd>Connect transmission oil cooler lines to
+transmission (1) and oil filter lines to transmission oil
+filter as tagged at removal.
+  </cmd></step>
+   <step><cmd>Connect steering pump hydraulic lines as tagged
+at removal and secure lines to transmission (1) with
+mounting hardware removed during removal.
+  </cmd></step>
+</steps>
+</taskbody>
+</task>

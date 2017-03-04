@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="torqueconverter" xml:lang="fr-fr">
+    <title>Torque Converter</title>
+    <shortdesc/>
+    <prolog>
+        <author/>
+        <metadata>
+            <keywords>
+                <keyword>Torque</keyword>
+                <indexterm>Torque<indexterm>Converter</indexterm></indexterm>
+            </keywords>
+            <prodinfo>
+                <prodname>Mining Truck</prodname>
+                <vrmlist>
+                    <vrm version="T100"/>
+                </vrmlist>
+                <brand>Terex</brand>
+            </prodinfo>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>The torque converter consists of three elements - pump, turbine, and stator. The pump is
+            the input element and is driven directly by the engine. The turbine is the output
+            element and is hydraulically driven by the pump. The stator is the reaction (torque
+            multiplying) element. </p>
+        <p>When the pump turns faster than the turbine, the torque converter is multiplying torque.
+            When the turbine approaches the speed of the pump the stator starts to rotate with the
+            pump and turbine. When this occurs, torque multiplication stops and the torque converter
+            functions as a fluid coupling. </p>
+    </conbody>
+</concept>

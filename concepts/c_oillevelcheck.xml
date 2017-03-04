@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="c_oillevelcheck" xml:lang="en-us">
+<title>Oil Level Check</title>
+<shortdesc></shortdesc>
+
+<prolog>
+	<author></author>
+	
+	   <metadata>
+        <keywords>
+            <keyword> Check </keyword>
+            <indexterm> Checking<indexterm> Oil</indexterm></indexterm>
+        </keywords>
+        <prodinfo>
+            <prodname> Mining Truck </prodname>
+            <vrmlist>
+                <vrm version="T100"/>
+            </vrmlist>
+            <brand> Terex </brand>
+        </prodinfo>
+    </metadata>
+</prolog>
+
+
+<conbody>
+<p>Check the transmission oil level and add oil if low, every 10 hours/daily. Use only oil of the
+            type specified by your dealer. Because the transmission oil cools, lubricates and
+            transmits hydraulic power it is important that the proper oil level be maintained at all
+            times. </p>
+        <p>If the oil level is too low, the converter and clutches will not receive an adequate
+            supply of oil. </p>
+        <p>If the oil level is too high, the oil will aerate and the transmission will overheat. </p>
+        <p>It is absolutely necessary that the oil put into the transmission be clean. Oil must be
+            handled in clean containers to prevent foreign material from entering the system.</p>
+
+
+</conbody>
+</concept>

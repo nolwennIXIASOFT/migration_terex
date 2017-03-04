@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "../../dtd/technicalContent/dtd/task.dtd">
+<task id="checkinghotoil" xml:lang="en-us">
+<title>Checking Hot Oil Level</title>
+<shortdesc>A hot oil level check is made to determine if there is sufficient oil 
+for working operation of the transmission. </shortdesc>
+<prolog>
+		<author></author>
+		<metadata> <keywords>
+						<keyword>Hot oil</keyword>
+						<indexterm>Hot oil<indexterm>Checking</indexterm></indexterm>
+			<indexterm>Checking<indexterm>Hot oil</indexterm></indexterm>
+					</keywords>
+					<prodinfo>
+						<prodname>Mining Truck</prodname>
+						<vrmlist>
+							<vrm version="T100"/>
+						</vrmlist>
+						<brand>Terex</brand>
+					</prodinfo>
+				</metadata>
+			</prolog>
+<taskbody>
+<context><p><note>Observe the condition of the oil in the visual level indicator 
+or the type of flow from the plug opening. Foaming or spurting may indicate a false level.</note></p></context>
+<steps>
+  <step><cmd>Select neutral on the transmission range selector and start the engine.</cmd></step>
+  <step><cmd>Operate the vehicle until the transmission reaches a normal operating temperature of 82 - 103° C (180 - 220° F).</cmd></step>
+  <step><cmd>Idle the engine, apply the parking brake and block all road wheels.</cmd></step>
+  <step><cmd>Check the visual level indicator or remove the FULL (upper) oil level check plug.</cmd></step>
+  <step>
+				<cmd>The oil should be within the indicator limits or at or near the level of the
+					plug opening.</cmd>
+			</step>
+  <step><cmd>Add or drain oil as necessary to bring the oil level within these limits.</cmd></step>
+</steps>
+<result>
+<note>The transmission may be operated safely as long as the oil level is above the ADD (lower) plug.</note>
+</result>
+</taskbody>
+</task>

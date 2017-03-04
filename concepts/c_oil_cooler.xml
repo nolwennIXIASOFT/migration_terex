@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+ 
+<concept id="oilcooler" xml:lang="en-us">
+
+<title>Transmission Oil Cooler</title>
+
+<shortdesc></shortdesc>
+
+<prolog>
+	<author/>
+	<metadata>
+		<keywords>
+			<keyword>transmission</keyword>
+			<keyword>Oil</keyword>
+			<indexterm>Transmission<indexterm>Cooler
+			</indexterm></indexterm>
+		</keywords>
+		<prodinfo>
+			<prodname>Mining Truck</prodname>
+			<vrmlist>
+				<vrm version="T100"/>
+			</vrmlist>
+			<brand>Terex</brand>
+		</prodinfo>
+	</metadata>
+</prolog>
+
+<conbody>
+		<p>The transmission oil is cooled by a separate oil cooler mounted between the radiator and
+			transmission to maintain transmission oil within its required operating temperature
+			range. </p>
+</conbody>
+
+</concept>

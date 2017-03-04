@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "../../dtd/technicalContent/dtd/task.dtd">
+<task id="disassembly" xml:lang="en-us">
+<title>Transmission Disassembly</title>
+<shortdesc></shortdesc>
+	<prolog>
+            <author></author>
+            <metadata>
+				<keywords>
+					<keyword>Disassembly</keyword>
+                <indexterm>Transmission<indexterm>Disassembling</indexterm></indexterm>
+				</keywords>
+				<prodinfo>
+					<prodname>Mining Truck</prodname>
+					<vrmlist>
+						<vrm version="T100"/>
+					</vrmlist>
+					<brand>Terex</brand>
+				</prodinfo>
+			</metadata>
+	</prolog>
+<taskbody>
+<context><p>Refer to the transmission manufacturers
+Service Manual if transmission service or repair is
+required.</p></context>
+<steps>
+  <step><cmd>Remove bushings (13) and washers (14) from
+brackets (18).</cmd></step>
+  <step><cmd>Remove bolts (15 and 16) securing brackets (18) on
+transmission (1) and remove brackets (18).</cmd></step>
+  <step><cmd>Remove flange nut (31) and retainer plate (32)
+securing input flange (33) on transmission (1). Pull
+input flange (33) from transmission (1).</cmd></step>
+  <step><cmd>Pull trunnion (2) assembly from transmission (1)
+and remove shock mounts (5) and ring (34) from
+trunnion (2), if required.</cmd></step>
+<step><cmd>Remove flange nut (35) and retainer plate (36)
+securing output flange (37) on transmission (1). Pull
+output flange (37) from transmission (1).</cmd></step>
+</steps>
+</taskbody>
+</task>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="reuse" xml:lang="en-us">
+  <title>Reuse - do not publish "as is"</title>
+ <body> 
+    <p> <ph id="brand_name">TEREX</ph>
+      <hazardstatement id="hazard_statement">
+        <messagepanel id="messagepanel_whq_41z_bz">
+          <typeofhazard/>
+          <howtoavoid/>
+        </messagepanel>
+      </hazardstatement>
+    </p>
+  </body>
+</topic>

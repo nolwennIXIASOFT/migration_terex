@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="visuallevelindicators" xml:lang="en-us">
+<title>Visual Level Indicator</title>
+
+<shortdesc></shortdesc>
+
+<prolog>
+<author> </author>
+<metadata>
+        <keywords>
+            <keyword> Visual check </keyword>
+            <indexterm> Checking <indexterm> Oil</indexterm></indexterm>
+        </keywords>
+        <prodinfo>
+            <prodname> Mining Truck </prodname>
+            <vrmlist>
+                <vrm version="T100"/>
+            </vrmlist>
+            <brand> Terex </brand>
+        </prodinfo>
+    </metadata>
+</prolog>
+
+
+<conbody><p>Visual Level Indicator A visual level indicator is mounted on the lower left side of the
+            transmission main housing and provides a method of checking the oil level.</p></conbody></concept>

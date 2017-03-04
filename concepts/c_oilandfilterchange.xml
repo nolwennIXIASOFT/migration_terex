@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="oilandfilterchange" xml:lang="en-us">
+<title>Oil and Filter Change</title>
+<shortdesc>After the first 150 hours of operating a new or rebuilt
+transmission, the transmission oil and filters should be
+changed.</shortdesc>
+<prolog>
+	<author/>
+	<metadata><keywords>
+				<keyword> Oil</keyword>
+				<indexterm>Oil<indexterm>Filter</indexterm></indexterm>
+			</keywords>
+			<prodinfo>
+				<prodname>Mining Truck</prodname>
+				<vrmlist>
+					<vrm version="T100"/>
+				</vrmlist>
+				<brand>Terex</brand>
+	</prodinfo>
+	</metadata>
+</prolog>
+<conbody><p>The transmission oil and filters should be changed at the intervals specified, or sooner,
+			depending on operating conditions. Also, the oil must be changed whenever there are
+			traces of dirt or evidence of high temperature indicated by discoloration or strong
+			odour. The screen and magnet assembly in the sump should be removed and cleaned with
+			mineral spirits at each oil change. Metal particles in the oil (except for the minute
+			particles normally trapped in the oil filters) indicate damage has occurred in the
+			transmission. </p>
+<p>When these particles are found in the filters, the cause must be established and rectified
+			immediately to prevent damage to the transmission. At each oil change, examine the used
+			oil for evidence of dirt or water. A normal amount of condensation will emulsify in the
+			oil during operation of the transmission. However, if there is evidence of water or
+			engine coolant in the oil, the cause must be established and rectified immediately to
+			prevent damage to the transmission..</p></conbody>
+</concept>

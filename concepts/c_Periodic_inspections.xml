@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="periodicinspections" xml:lang="en-us">
+<title>Periodic Inspections</title>
+
+<prolog>
+	<author> </author>
+	
+	<metadata>
+		<keywords>
+			<keyword> Inspections </keyword>
+			<indexterm> Inspection <indexterm> Periodic</indexterm></indexterm>
+		</keywords>
+		<prodinfo>
+			<prodname> Mining Truck </prodname>
+			<vrmlist>
+				<vrm version="T100"/>
+			</vrmlist>
+			<brand> Terex </brand>
+		</prodinfo>
+	</metadata>
+</prolog>
+
+<conbody>
+
+<p>For easier inspection, the transmission should be kept
+clean. Make periodic checks for loose bolts and
+leaking oil lines. Check the condition of electrical
+harnesses and connections regularly.</p>
+<p>The transmission breather should be checked
+regularly and as frequently as necessary, depending
+on the operating conditions of the vehicle. A badly
+corroded or plugged breather restricts proper
+breathing and causes a buildup of condensation and
+subsequent oil deterioration.</p>
+
+</conbody>
+</concept>

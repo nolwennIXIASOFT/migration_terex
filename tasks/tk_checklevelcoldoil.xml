@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "../../dtd/technicalContent/dtd/task.dtd">
+<task id="c_checklevelcoldoil" xml:lang="en-us">
+<title>Checking Cold Oil Level</title>
+<prolog>
+		<author></author>
+		<metadata>
+			<keywords>
+				<keyword>Cold Oil</keyword>
+				<indexterm>Checking</indexterm>
+				<indexterm>Cold oil</indexterm>
+			</keywords>
+			<prodinfo>
+				<prodname>Mining Truck</prodname>
+				<vrmlist>
+					<vrm version="T100"/>
+				</vrmlist>
+				<brand>Terex</brand>
+			</prodinfo>
+		</metadata>
+</prolog>
+<taskbody>
+	<context><p>If oil is present in the indicator or if oil flows from the plug opening, the
+				transmission has sufficient oil to permit safe starting of the engine.</p> If no oil
+			is present, add sufficient oil to bring the level within the indicator or to cause a
+			flow from the plug opening.</context>
+	<steps>
+<step><cmd>Before starting the engine, check the visual level indicator or remove the ADD (lower) plug.</cmd></step>
+<step><cmd>Replace the plug.</cmd></step>
+</steps>
+</taskbody>
+</task>

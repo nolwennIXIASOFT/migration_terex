@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="specialtools" xml:lang="en-us">
+<title>Special Tools</title>
+<prolog><author/>
+<metadata>
+<keywords>
+<keyword>Tools</keyword>
+<indexterm>Tools </indexterm>
+</keywords>
+<prodinfo>
+      <prodname>Terex</prodname>
+      <vrmlist>
+         <vrm version="T100"/>
+      </vrmlist>
+      <brand>Terex</brand>
+</prodinfo>
+</metadata>
+</prolog>
+<conbody><p>There are no special tools required for the procedures outlined in this section. Check part
+         numbers of service tools which should be used in conjunction with procedures outlined in
+         the transmission manufacturers service manual, and, general service tools and adhesives
+         required. These tools and adhesives are available from your dealer.</p></conbody>
+</concept>

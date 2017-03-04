@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="maintenance_terex" xml:lang="en-us">
+ <title>Maintenance </title>
+<!-- Metadata for the map --> 
+ <topicmeta>
+ <metadata>
+  <prodinfo>
+   <prodname>Mining Truck</prodname>
+   <vrmlist>
+    <vrm version="T100"/>
+   </vrmlist>
+   <brand>Terex</brand>
+  </prodinfo>
+ </metadata>
+ </topicmeta>
+ <!-- Hierarchy of content -->
+ <topichead navtitle="Tasks">  
+  <topicref href="tasks/tk_removal.xml" collection-type="sequence">
+   <topicref href="tasks/tk_transmission_Disassembly.xml"/>
+   <topicref href="tasks/tk_transmission_assembly.xml"/>
+  </topicref>
+  <topicref href="tasks/tk_transmissioninstallation.xml"/>
+  <topicref href="tasks/tk_welding_parts.xml"/>
+  <topicref href="concepts/c_oilandfilterchange.xml">
+   <topicref href="tasks/tk_checklevelcoldoil.xml"/>
+   <topicref href="tasks/tk_checkinghotoillevel.xml"/>
+  </topicref>
+ </topichead>
+ <topichead navtitle="Concepts">
+  <topicref href="concepts/c_Transmission_Oil_Filter.xml"/>
+  <topicref href="concepts/c_torque_converter.xml"/>
+  <topicref href="concepts/c_hydraulic_retarder.xml"/>
+  <topicref href="concepts/c_lockupclutch.xml"/>
+  <topicref href="concepts/c_oil_cooler.xml"/>
+  <topicref href="concepts/c_oillevelcheck.xml"/>
+  <topicref href="concepts/c_planetarygearsandclutches.xml"/>
+  <topicref href="concepts/c_visual_level_indicators.xml"/>
+ </topichead>
+ <topicref href="concepts/c_Periodic_inspections.xml"/>
+ <topicref href="concepts/c_specialtools.xml"/>
+ <!-- Links between topics -->
+ <reltable title="maintenance">
+  <relrow>
+   <relcell>
+    <topicref href="concepts/c_oillevelcheck.xml"/>
+   </relcell>
+   <relcell>
+    <topicref href="tasks/tk_checklevelcoldoil.xml"/>
+    <topicref href="tasks/tk_checkinghotoillevel.xml"/>
+   </relcell>
+  </relrow>
+  <relrow>
+   <relcell/>
+   <relcell/>
+  </relrow>
+  <relrow>
+   <relcell/>
+   <relcell/>
+  </relrow>
+ </reltable>
+ <!-- Additional link to referable content -->
+ <topicref href="reuse.dita" processing-role="resource-only" toc="no"/>
+</map>

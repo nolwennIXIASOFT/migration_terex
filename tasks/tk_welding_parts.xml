@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "../../dtd/technicalContent/dtd/task.dtd">
+<task id="weldingparts" xml:lang="en-us">
+<title>Welding on Vehicle Equipped with CEC</title>
+<shortdesc></shortdesc>
+<prolog>
+        <author></author>
+		<metadata>
+            <keywords>
+                <keyword>CEC</keyword>
+				<keyword>Welding</keyword>
+				<indexterm>Welding<indexterm>CEC</indexterm></indexterm>
+            </keywords>
+            <prodinfo>
+                <prodname>Mining Truck</prodname>
+                <vrmlist>
+                    <vrm version="T100"/>
+                </vrmlist>
+                <brand>Terex</brand>
+            </prodinfo>
+        </metadata>
+    </prolog>
+<taskbody>
+<context><p>When frame or other welding is required, the following
+precautions are to be taken to protect the electrical
+components.</p></context>
+<steps>
+  <step><cmd>Disconnect battery equalizer ground connection
+from the batteries. Disconnect battery cables from
+terminal posts (ground cable first). Disconnect battery
+equalizer positive connection. Disconnect electrical
+connections at the ECU.</cmd></step>
+  <step><cmd>If additional system ground wires are connected to
+the frame, they must be disconnected also.</cmd></step>
+  <step><cmd></cmd></step>
+  <step><cmd></cmd></step>
+</steps>
+</taskbody>
+</task>

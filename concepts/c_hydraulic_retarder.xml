@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="hydraulicretarder" xml:lang="en-us">
+	<title>Hydraulic Retarder</title>
+	<shortdesc/>
+	<prolog>
+		<author></author>
+		<metadata>
+			<keywords>
+				<keyword>Retarder</keyword>
+				<indexterm>Hydraulic<indexterm>Retarder</indexterm></indexterm>
+			</keywords>
+			<prodinfo>
+				<prodname>Mining Truck</prodname>
+				<vrmlist>
+					<vrm version="T100"/>
+				</vrmlist>
+				<brand>Terex</brand>
+			</prodinfo>
+		</metadata>
+	</prolog>
+	<conbody>
+		<p>A vaned rotor and two vaned stators are the basic components of the retarder. Application of
+			the retarder control valve fills the cavity around the rotor with oil when the vehicle
+			must be slowed on steep downgrades. When the cavity is emptied, the rotor is free of
+			drag. </p>
+		<p>Maximum retarder effect occurs in the lowest gear
+		range with foot off of the accelerator pedal. Long continuous 
+		use of the retarder will raise transmission
+		oil temperature. Short periods of full release, to interrupt
+		continuous application, will help prevent overheating.</p>
+		<p>During normal operation the dash mounted
+		transmission oil temperature gauge should read in the 
+		green zone. However, during transmission retarder
+		operation oil temperature can enter the yellow
+		'Retarder On' zone but should not enter the red zone.</p>
+	</conbody>
+</concept>
